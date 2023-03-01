@@ -1,66 +1,45 @@
-<img alt="Coding" width="1024" src="https://media1.tenor.com/images/09f6031b55627845ac42fa96c4776b58/tenor.gif?itemid=27633680">
-<h1 align="center">Hi <img alt="wavehand" width="60" src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e477p6aeoa0y1323ddvnl3zddle0iy2r0wzqgzhke7r&rid=200w.webp&ct=s" />, I'm Settawut Borrisut 👨🏻‍💻</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/5iV4Op6eJsjBDxIXPi/giphy.webp?cid=ecf05e47fl11ogwttocas0ke4zmi2zlwmndw71vanxcuns85&rid=giphy.webp&ct=s">
+<img alt="Coding" width="1024" src="https://media1.tenor.com/images/3d72cb6b2453ac39206627d1d700897f/tenor.gif?itemid=27634016?itemid=27633680">
+<div id="intro" align="center">
+		<img alt="wavehand" width="60" src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e477p6aeoa0y1323ddvnl3zddle0iy2r0wzqgzhke7r&rid=200w.webp&ct=s" />
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1024&lines=Hi%2C+I'm+Settawut+Borrisut" alt="Typing SVG" />
+		<div id="social-media-badges" align="center">
+			<a href="">
+				<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+				<img alt="twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" />
+				<img alt="viewer" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" />
+			</a>
+		</div>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sttwood&label=Profile%20views&color=0e75b6&style=flat" alt="sttwood" /> </p>
+---
 
-- 🔭 I’m currently working on **Find Living Place around MFU** project
+### :woman_technologist: About Me :
 
-- 🌱 I’m currently learning **react**
+- 🔭 I’m currently working as a Fullstack Developer Internship.
 
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning **react** and **next.js**
 
-- 📫 How to reach me **settawut.borrisut@gmail.com**
+- ⚡ Ask me about In my free time, I practice myself on FrontendMentor and work on mini project
 
-- ⚡ Fun fact **When our electric device broken my parent always ask me to fix it.**
+- 📫 How to reach me: **settawut.borrisut@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/settawut borrisut" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="settawut borrisut" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-</p>
+### :hammer_and_wrench: Languages and Tools :
+| Tech Stack                    |   |
+|-------------------------------|---|
+| Programming language & Coding | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)  |
+| Frameworks & Libaries         | [![My Skills](https://skillicons.dev/icons?i=react,redux,vue,nuxtjs,bootstrap,materialui)](https://skillicons.dev)  |
+| Database & Cloud Hosting      | [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,netlify,vercel)](https://skillicons.dev)  |
+| Software and Tools            | [![My Skills](https://skillicons.dev/icons?i=wordpress,git,postman,figma,vscode,discord)](https://skillicons.dev)  |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sttwood&show_icons=true&locale=en&layout=compact" alt="sttwood" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sttwood&show_icons=true&locale=en" alt="sttwood" /></p>
+---
+
+### :fire: Streak Stats :
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sttwood&theme=calm&hide_border=true&border_radius=5" alt="sttwood" />
+
+### :clipboard: Profile Stats :
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sttwood&langs_count=8&layout=compact&theme=calm&hide_border=true&hide=Jupyter%20Notebook,Roff" alt="sttwood" height="192px" />
+
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sttwood&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=calm&hide_border=true" alt="sttwood" height="192px" />
