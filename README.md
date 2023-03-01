@@ -3,11 +3,14 @@
 <img alt="wavehand" width="60" src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e477p6aeoa0y1323ddvnl3zddle0iy2r0wzqgzhke7r&rid=200w.webp&ct=s" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1024&lines=Hi%2C+I'm+Settawut+Borrisut" alt="Typing SVG" />
 <div id="social-media-badges" align="center">
-<a href="">
+<a href="https://www.linkedin.com/in/settawut-borrisut-013038212/">
 <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-<img alt="twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" />
-<img alt="viewer" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" />
 </a>
+<a href="">
+<img alt="twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" />
+</a>
+<img alt="viewer" src="https://komarev.com/ghpvc/?username=sttwood&style=flat-square&color=blue" />
+
 </div>
 </div>
 
