@@ -1,14 +1,14 @@
 <img alt="Coding" width="1024" src="https://media1.tenor.com/images/3d72cb6b2453ac39206627d1d700897f/tenor.gif?itemid=27634016?itemid=27633680">
 <div id="intro" align="center">
-		<img alt="wavehand" width="60" src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e477p6aeoa0y1323ddvnl3zddle0iy2r0wzqgzhke7r&rid=200w.webp&ct=s" />
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1024&lines=Hi%2C+I'm+Settawut+Borrisut" alt="Typing SVG" />
-		<div id="social-media-badges" align="center">
-			<a href="">
-				<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-				<img alt="twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" />
-				<img alt="viewer" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" />
-			</a>
-		</div>
+<img alt="wavehand" width="60" src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e477p6aeoa0y1323ddvnl3zddle0iy2r0wzqgzhke7r&rid=200w.webp&ct=s" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1024&lines=Hi%2C+I'm+Settawut+Borrisut" alt="Typing SVG" />
+<div id="social-media-badges" align="center">
+<a href="">
+<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+<img alt="twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" />
+<img alt="viewer" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" />
+</a>
+</div>
 </div>
 
 ---
@@ -40,6 +40,8 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=sttwood&theme=calm&hide_border=true&border_radius=5" alt="sttwood" />
 
 ### :clipboard: Profile Stats :
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sttwood&langs_count=8&layout=compact&theme=calm&hide_border=true&hide=Jupyter%20Notebook,Roff" alt="sttwood" height="192px" />
 
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sttwood&langs_count=8&layout=compact&theme=calm&hide_border=true&hide=Jupyter%20Notebook,Roff" alt="sttwood" height="192px" />
+	
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sttwood&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=calm&hide_border=true" alt="sttwood" height="192px" />
+	</p>
