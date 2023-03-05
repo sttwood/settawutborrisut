@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/settawut-borrisut-013038212/">
 <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
-<a href="">
+<a href="https://twitter.com/sttwood">
 <img alt="twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" />
 </a>
 <img alt="viewer" src="https://komarev.com/ghpvc/?username=sttwood&style=flat-square&color=blue" />
