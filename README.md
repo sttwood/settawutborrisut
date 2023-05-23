@@ -32,9 +32,9 @@
 | Tech Stack                    |   |
 |-------------------------------|---|
 | Programming & Markup language | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)  |
-| Frameworks & Libaries         | [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,materialui)](https://skillicons.dev)  |
+| Frameworks & Libaries         | [![My Skills](https://skillicons.dev/icons?i=react,redux,vite,bootstrap,materialui)](https://skillicons.dev)  |
 | Database & Cloud Hosting      | [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,netlify,vercel)](https://skillicons.dev)  |
-| Software and Tools            | [![My Skills](https://skillicons.dev/icons?i=wordpress,git,postman,figma,vscode,discord)](https://skillicons.dev)  |
+| Software and Tools            | [![My Skills](https://skillicons.dev/icons?i=wordpress,git,postman,figma,vscode,github,docker)](https://skillicons.dev)  |
 
 
 ---
