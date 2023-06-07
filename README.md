@@ -18,9 +18,9 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working as a Fullstack Developer Internship.
+- 🔭 I’m currently finding a Front-End Developer job.
 
-- 🌱 I’m currently learning **react** and **next.js**
+- 🌱 I’m currently learning **react**
 
 - ⚡ Ask me about In my free time, I practice myself on FrontendMentor and work on mini project
 
