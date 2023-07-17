@@ -20,9 +20,9 @@
 
 - 🔭 I’m currently finding a Front-End Developer job.
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React** and **Vue**
 
-- ⚡ Ask me about In my free time, I practice myself on FrontendMentor and work on mini project
+- ⚡ In my free time, I practice myself on FrontendMentor and work on a mini project
 
 - 📫 How to reach me: **settawut.borrisut@gmail.com**
 
@@ -32,19 +32,9 @@
 | Tech Stack                    |   |
 |-------------------------------|---|
 | Programming & Markup language | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)  |
-| Frameworks & Libaries         | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,materialui)](https://skillicons.dev)  |
+| Frameworks & Libaries         | [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,materialui)](https://skillicons.dev)  |
 | Database & Cloud Hosting      | [![My Skills](https://skillicons.dev/icons?i=mongodb,netlify,vercel)](https://skillicons.dev)  |
 | Software and Tools            | [![My Skills](https://skillicons.dev/icons?i=wordpress,git,postman,figma,vscode,github)](https://skillicons.dev)  |
 
 
----
 
-### :fire: Streak Stats :
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sttwood&theme=calm&hide_border=true&border_radius=5" alt="sttwood" />
-
-### :clipboard: Profile Stats :
-
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sttwood&langs_count=8&layout=compact&theme=calm&hide_border=true&hide=Jupyter%20Notebook,Roff" alt="sttwood" height="192px" />
-	
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sttwood&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=calm&hide_border=true" alt="sttwood" height="192px" />
-	</p>
