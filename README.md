@@ -18,23 +18,25 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently finding a Front-End Developer job.
+- 〔🔭〕 I’m currently working at **Nexilar Co., Ltd.** as a **Front-End Developer**.
 
-- 🌱 I’m currently learning **React** and **Vue**
+- 〔🌱〕 I’m currently learning **React**, **Typescript** and **Next.js**
 
-- ⚡ In my free time, I practice myself on FrontendMentor and work on a mini project
+- 〔⚡〕 In my free time, I practice myself on FrontendMentor and work on a mini-project
 
-- 📫 How to reach me: **settawut.borrisut@gmail.com**
+- 〔📫〕 How to reach me: **settawut.borrisut@gmail.com**
 
 ---
 
 ### :hammer_and_wrench: Tech Stack :
 | Tech Stack                    |   |
 |-------------------------------|---|
-| Programming & Markup language | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)  |
-| Frameworks & Libaries         | [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,materialui)](https://skillicons.dev)  |
-| Database & Cloud Hosting      | [![My Skills](https://skillicons.dev/icons?i=mongodb,netlify,vercel)](https://skillicons.dev)  |
-| Software and Tools            | [![My Skills](https://skillicons.dev/icons?i=wordpress,git,postman,figma,vscode,github)](https://skillicons.dev)  |
+| Programming & Markup language | [![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io) [![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io)  |
+| Frameworks & Libaries         | [![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io) [![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://img.shields.io)  |
+| CSS Frameworks & Libaries     | [![image](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://img.shields.io)  |
+| Database & Cloud Hosting      | [![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://img.shields.io)  |
+| Software and Tools            | [![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://img.shields.io) [![image](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://img.shields.io)  |
 
-
+### :fire: Status :
+[![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sttwood&theme=github_dark)](https://skillicons.dev) 
 
